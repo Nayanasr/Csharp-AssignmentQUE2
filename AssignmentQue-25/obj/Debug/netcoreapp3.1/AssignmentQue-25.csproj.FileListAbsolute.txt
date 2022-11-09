@@ -1,0 +1,13 @@
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\bin\Debug\netcoreapp3.1\AssignmentQue-25.exe
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\bin\Debug\netcoreapp3.1\AssignmentQue-25.deps.json
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\bin\Debug\netcoreapp3.1\AssignmentQue-25.runtimeconfig.json
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\bin\Debug\netcoreapp3.1\AssignmentQue-25.runtimeconfig.dev.json
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\bin\Debug\netcoreapp3.1\AssignmentQue-25.dll
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\bin\Debug\netcoreapp3.1\AssignmentQue-25.pdb
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.AssemblyInfo.cs
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.dll
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.pdb
+C:\Users\107012\source\repos\AssignmentQue-25\AssignmentQue-25\obj\Debug\netcoreapp3.1\AssignmentQue-25.genruntimeconfig.cache
